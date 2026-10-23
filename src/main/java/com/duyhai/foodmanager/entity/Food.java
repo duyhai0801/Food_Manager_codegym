@@ -1,4 +1,4 @@
-package Entity;
+package com.duyhai.foodmanager.entity;
 
 public class Food {
     private long id;

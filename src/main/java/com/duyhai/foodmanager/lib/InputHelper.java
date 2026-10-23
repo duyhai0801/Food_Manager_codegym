@@ -1,4 +1,4 @@
-package Lib;
+package com.duyhai.foodmanager.lib;
 
 import java.util.Scanner;
 

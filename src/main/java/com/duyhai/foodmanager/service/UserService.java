@@ -1,7 +1,7 @@
-package Service;
+package com.duyhai.foodmanager.service;
 
-import Entity.User;
-import Repository.UserRepository;
+import com.duyhai.foodmanager.entity.User;
+import com.duyhai.foodmanager.repository.UserRepository;
 
 import java.util.List;
 

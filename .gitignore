@@ -1,6 +1,16 @@
 # Build output
+target/
 bin/
+out/
 *.class
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.factorypath
 
 # Du lieu chay app (chua mat khau)
 data/

@@ -1,8 +1,8 @@
-package UI;
+package com.duyhai.foodmanager.ui;
 
-import Entity.Food;
-import Lib.InputHelper;
-import Service.FoodService;
+import com.duyhai.foodmanager.entity.Food;
+import com.duyhai.foodmanager.lib.InputHelper;
+import com.duyhai.foodmanager.service.FoodService;
 
 import java.util.List;
 

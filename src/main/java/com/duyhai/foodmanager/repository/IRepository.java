@@ -1,4 +1,4 @@
-package Repository;
+package com.duyhai.foodmanager.repository;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package Entity;
+package com.duyhai.foodmanager.entity;
 
 public class User {
     private String username;

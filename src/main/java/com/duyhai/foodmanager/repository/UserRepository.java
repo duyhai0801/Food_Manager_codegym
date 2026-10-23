@@ -1,7 +1,7 @@
-package Repository;
+package com.duyhai.foodmanager.repository;
 
-import Entity.User;
-import Lib.FileHelper;
+import com.duyhai.foodmanager.entity.User;
+import com.duyhai.foodmanager.lib.FileHelper;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
-package UI;
+package com.duyhai.foodmanager.ui;
 
-import Entity.User;
-import Lib.InputHelper;
+import com.duyhai.foodmanager.entity.User;
+import com.duyhai.foodmanager.lib.InputHelper;
 
 public class MainMenuUI {
 

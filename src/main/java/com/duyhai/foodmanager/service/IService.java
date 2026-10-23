@@ -1,4 +1,4 @@
-package Service;
+package com.duyhai.foodmanager.service;
 
 import java.util.List;
 

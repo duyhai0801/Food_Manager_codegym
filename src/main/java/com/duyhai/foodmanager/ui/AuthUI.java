@@ -1,8 +1,8 @@
-package UI;
+package com.duyhai.foodmanager.ui;
 
-import Entity.User;
-import Lib.InputHelper;
-import Service.UserService;
+import com.duyhai.foodmanager.entity.User;
+import com.duyhai.foodmanager.lib.InputHelper;
+import com.duyhai.foodmanager.service.UserService;
 
 public class AuthUI {
     private static final UserService userService = new UserService();

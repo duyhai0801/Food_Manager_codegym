@@ -5,7 +5,8 @@
             "type": "java",
             "name": "Food Manager",
             "request": "launch",
-            "mainClass": "UI.Main",
+            "mainClass": "com.duyhai.foodmanager.ui.Main",
+            "projectName": "food-manager",
             "cwd": "${workspaceFolder}",
             "console": "integratedTerminal"
         }
