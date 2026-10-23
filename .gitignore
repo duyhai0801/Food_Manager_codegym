@@ -1,0 +1,6 @@
+# Build output
+bin/
+*.class
+
+# Du lieu chay app (chua mat khau)
+data/

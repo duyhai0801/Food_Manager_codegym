@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [],
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.executorMap": {
+        "java": "cd \"$workspaceRoot\" && javac -encoding UTF-8 -d bin -sourcepath src src/UI/Main.java && java -cp bin UI.Main"
+    }
+}
